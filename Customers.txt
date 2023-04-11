@@ -1,0 +1,3 @@
+Ed Alvarado#3 any street LA CA 90021#Gravel#30.0#20.0#1200.0
+John Wick#112 No where to run Tampa Florida 33812#Grass#75.0#60.0#22500.0
+John Snow#78 drive dr Lakeland FL 33612#Gravel#23.0#10.0#460.0
